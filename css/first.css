@@ -1,0 +1,40 @@
+.main
+{
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	background: url("../images/bgimg1.jpg") no-repeat;
+} 
+
+.first
+{
+	margin-top: 0px;
+	width: 200px;
+	height: 400px;
+	background: url("../images/bgimg2.jpg") no-repeat;
+	position: absolute;
+	font-family: verdana;
+
+}
+
+.ulstyle
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	font-family: verdana;
+	color: white;
+    list-style-type: none;
+}
+.second
+{
+	margin-top: 20px;
+	margin-left: 10px;
+	float: right;
+	margin: auto;
+	width: 600px;
+	color: white;
+	height: 400px;
+	background: url("../images/bgimg3.jpg") no-repeat;
+	position: relative;
+	
+}

@@ -1,0 +1,6 @@
+.container{
+	background: -webkit-linear-gradient(top,red,green);
+	height: 500px;
+	width: 500px;
+	border: 5px solid;
+}
